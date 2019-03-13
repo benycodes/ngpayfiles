@@ -3858,4 +3858,6 @@ pagination .is-mobile .pagination-button-prev{
 pagination .is-mobile .pagination-button-next{
     float:right
 }
- 
+img.product_image {
+    max-width: 100%;
+}
