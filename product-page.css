@@ -3861,3 +3861,15 @@ pagination .is-mobile .pagination-button-next{
 img.product_image {
     max-width: 100%;
 }
+
+@media only screen and (min-width: 860px) {
+    .hide_desktop {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 860px) {
+    .hide_mobile {
+        display: none;
+    }
+}
